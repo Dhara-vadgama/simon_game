@@ -30,7 +30,7 @@ This project was part of my **JavaScript learning journey** where I focused on *
 
 ## 🚀 Live Demo
 
-👉 [Click here to play!](https://your-versal-link.vercel.app)
+👉 [Click here to play!](https://simon-game-one-tau.vercel.app/)
 
 ## 🙋‍♀️ Why I Made This
 
