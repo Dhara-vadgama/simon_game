@@ -18,6 +18,7 @@ h1 {
 }
 
 .btn-container {
+
   display: grid;
   grid-template-columns: repeat(2, 150px);
   grid-gap: 1.5rem;
